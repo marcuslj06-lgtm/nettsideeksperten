@@ -80,16 +80,16 @@ const header = `
 
 
     <button
-      class="menu"
-      type="button"
-      aria-label="Åpne meny"
-      aria-expanded="false"
-      aria-controls="main-navigation"
-    >
-      <span></span>
-      <span></span>
-      <span></span>
-    </button>
+  class="menu"
+  type="button"
+  aria-label="Åpne meny"
+  aria-expanded="false"
+  aria-controls="main-navigation"
+>
+  <i></i>
+  <i></i>
+  <i></i>
+</button>
 
   </div>
 
